@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BaoHongxue
-- 👀 I’m interested in Risk management & strategy marketing
-- 🌱 I’m currently learning BWL master in TUM
+- 👀 I’m interested in Internal Control & Data Visualization
+- 🌱 I am a graduate from TUM as a master of Management and Technology
 - 💞️ I’m looking to record my learning path 
 - 📫 Hongxue0226@gmail.com
 
